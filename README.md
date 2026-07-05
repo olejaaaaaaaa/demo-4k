@@ -29,8 +29,8 @@ To build this project you need:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/olejaaaaaaaa/retro-4k.git
-cd retro-4k
+git clone https://github.com/olejaaaaaaaa/demo-4k.git
+cd demo-4k
 python build.py
 ./build/demo.exe
 ```
