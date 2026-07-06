@@ -21,6 +21,7 @@ To build this project you need:
 - Windows (x86 / x64)
 - **Clang (clang-cl.exe)** installed and available in `PATH`
 - Python 3.x (for build automation script)
+- Windows SDK
 
 ---
 
